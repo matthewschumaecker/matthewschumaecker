@@ -8,4 +8,4 @@ I maintain a free-to-use, ad-free cardiology calculator at <a href="http://corca
 
 I indulge my inner nerd by running open-source LLMs on Linux and fine-tuning my Neovim setup.
 
-Also, I really like bagels.
+Also, I really like bagels. 🥯 😋
